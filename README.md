@@ -29,10 +29,3 @@ A simple Tic Tac Toe game built in Python for the console. This project lets two
 ```bash
 python tic_tac_toe.py
 ```
-how to play
-
- 1 | 2 | 3
------------
- 4 | 5 | 6
------------
- 7 | 8 | 9
